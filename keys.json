@@ -1,7 +1,19 @@
 {
-"key1": "dak3szfQN0IGmDTm",
-"key2": "Ketawa",
-"key3": "Muffin",
-"key4": "Starries",
-"key5": "Babi"
+  "keys": {
+    "dak3szfQM0IGmDTm": {
+      "status": "active"
+    },
+    "Ketawa": {
+      "status": "active"
+    },
+    "Muffin": {
+      "status": "active"
+    },
+    "Starries": {
+      "status": "active"
+    },
+    "Babi": {
+      "status": "active"
+    }
+  }
 }
