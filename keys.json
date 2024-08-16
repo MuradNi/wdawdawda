@@ -1,1 +1,22 @@
-{"keys": {"dak3szfQM0IGmDTm": {"status": "used", "discord_id": "710015947158585374"}, "Ketawa": {"status": "used", "discord_id": "992152530664566804"}, "Muffin": {"status": "active"}, "Starries": {"status": "active"}}}
+{
+  "keys": {
+    "dak3szfQM0IGmDTm": {
+      "status": "used",
+      "discord_id": "710015947158585374"
+    },
+    "Ketawa": {
+      "status": "used",
+      "discord_id": "992152530664566804"
+    },
+    "Muffin": {
+      "status": "active"
+    },
+    "Starries": {
+      "status": "active"
+    },
+    "tu7tXK5W7rEHn4JB": {
+      "status": "active",
+      "discord_id": null
+    }
+  }
+}
