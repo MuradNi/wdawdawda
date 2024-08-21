@@ -1,1 +1,12 @@
-{"keys": {"Muffin": {"status": "used", "discord_id": "805420102409256991"}}}
+{
+  "keys": {
+    "Muffin": {
+      "status": "used",
+      "discord_id": "805420102409256991"
+    },
+    "z1N71SxpSaBO1u9I": {
+      "status": "active",
+      "discord_id": "710015947158585374"
+    }
+  }
+}
