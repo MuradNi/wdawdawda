@@ -1,4 +1,9 @@
 {
-  "keys": {},
+  "keys": {
+    "Rendi": {
+      "status": "active",
+      "discord_id": "1194548747510755442"
+    }
+  },
   "expiration_times": {}
 }
