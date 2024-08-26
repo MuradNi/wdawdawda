@@ -10,8 +10,9 @@
       "device_id": "9dedb5d7d2b4d91da80b3870fe6e339fa2643d9f74e5ee9725deb84f55b65d23"
     },
     "Muffin": {
-      "status": "active",
-      "discord_id": "805420102409256991"
+      "status": "used",
+      "discord_id": "805420102409256991",
+      "device_id": "31c2c6dd4a66d7ff889612d7e0ba91b7eec978c02b2fc6d2fc516301820d7b0f"
     }
   },
   "expiration_times": {}
