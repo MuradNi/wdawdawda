@@ -1,10 +1,4 @@
 {
-  "keys": {
-    "Murad": {
-      "status": "used",
-      "discord_id": "213123132",
-      "device_id": "9dedb5d7d2b4d91da80b3870fe6e339fa2643d9f74e5ee9725deb84f55b65d23"
-    }
-  },
+  "keys": {},
   "expiration_times": {}
 }
