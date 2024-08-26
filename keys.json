@@ -5,8 +5,9 @@
       "discord_id": "1194548747510755442"
     },
     "Murad": {
-      "status": "active",
-      "discord_id": "710015947158585374"
+      "status": "used",
+      "discord_id": "710015947158585374",
+      "device_id": "9dedb5d7d2b4d91da80b3870fe6e339fa2643d9f74e5ee9725deb84f55b65d23"
     }
   },
   "expiration_times": {}
