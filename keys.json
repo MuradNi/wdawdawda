@@ -15,8 +15,9 @@
       "device_id": "31c2c6dd4a66d7ff889612d7e0ba91b7eec978c02b2fc6d2fc516301820d7b0f"
     },
     "Murad2": {
-      "status": "active",
-      "discord_id": "710015947158585374"
+      "status": "used",
+      "discord_id": "710015947158585374",
+      "device_id": "704863df6d3ea2b2a761f4a141f8a771454c0be6fdc3d3d83cc26d5143018d60"
     }
   },
   "expiration_times": {}
