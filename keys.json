@@ -20,8 +20,9 @@
       "device_id": "704863df6d3ea2b2a761f4a141f8a771454c0be6fdc3d3d83cc26d5143018d60"
     },
     "Alv": {
-      "status": "active",
-      "discord_id": "1016703952206704711"
+      "status": "used",
+      "discord_id": "1016703952206704711",
+      "device_id": "b3d5298f71a707d3a0b5ed62d0a16a7e5bc3b03563b1990d4b65bac29a2f3717"
     }
   },
   "expiration_times": {}
