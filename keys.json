@@ -25,8 +25,9 @@
       "device_id": "b3d5298f71a707d3a0b5ed62d0a16a7e5bc3b03563b1990d4b65bac29a2f3717"
     },
     "Sexy": {
-      "status": "active",
-      "discord_id": "1181492291400114236"
+      "status": "used",
+      "discord_id": "1181492291400114236",
+      "device_id": "68b369352d71e54aafac9cbdc6b6247e20069dcd813fce35b166bf596f3fdef9"
     }
   },
   "expiration_times": {}
