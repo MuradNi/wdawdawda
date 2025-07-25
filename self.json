@@ -1,10 +1,5 @@
 {
   "keys": {
-    "Copas": {
-      "status": "used",
-      "discord_id": "710015947158585374",
-      "device_id": "704863df6d3ea2b2a761f4a141f8a771454c0be6fdc3d3d83cc26d51430180"
-    },
     "TestKey": {
       "status": "active",
       "discord_id": "",
