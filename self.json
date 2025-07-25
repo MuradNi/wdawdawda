@@ -4,6 +4,11 @@
       "status": "active",
       "discord_id": "",
       "device_id": ""
+    },
+    "Copas": {
+      "status": "active",
+      "discord_id": "1119202623791312967",
+      "device_id": ""
     }
   },
   "expiration_times": {}
