@@ -1,9 +1,9 @@
 {
   "keys": {
     "Copas": {
-      "status": "active",
+      "status": "used",
       "discord_id": "1119202623791312967",
-      "device_id": ""
+      "device_id": "5cc6c4024d9da0ec30be23f6397a4ad3b2c2157e595ec058da6fb81a391e35b6"
     }
   },
   "expiration_times": {}
